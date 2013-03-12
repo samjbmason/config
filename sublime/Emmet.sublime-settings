@@ -1,0 +1,11 @@
+{
+	"snippets": {
+		"html": {
+        			"filters": "html, c"
+    		}
+	},
+
+	"preferences": {
+		"filter.commentAfter": " <!-- <%= attr(\"id\", \"#\") %> <%= attr(\"class\", \".\") %> -->"
+	}
+}
