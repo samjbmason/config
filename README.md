@@ -5,6 +5,7 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 - Scroll Direction: uncheck
 - Secondary click: right-side
 - Tracking: 5th bar
+- Set DNS to googles: 8.8.8.8 & 8.8.4.4
 - Allow applications from : anywhere
 - Show hard disks on desktop
 - Show path bar finder
