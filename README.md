@@ -4,7 +4,7 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 ### System config
 - Scroll Direction: uncheck
 - Secondary click: right-side
-- Turn off Mission control with double finder tap
+- Turn off Mission control with double finger tap
 - Tracking: 5th bar
 - Set DNS to googles: 8.8.8.8 & 8.8.4.4
 - Allow applications from : anywhere
