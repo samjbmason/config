@@ -4,6 +4,7 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 ### System config
 - Scroll Direction: uncheck
 - Secondary click: right-side
+- Turn off Mission control with double finder tap
 - Tracking: 5th bar
 - Set DNS to googles: 8.8.8.8 & 8.8.4.4
 - Allow applications from : anywhere
@@ -41,6 +42,7 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 - Desktop from [the desktop wallpaper project](http://www.thefoxisblack.com/category/the-desktop-wallpaper-project/)
 - appcleaner
 - dropbox
+- [Hex colour picker](http://wafflesoftware.net/hexpicker/)
 
 ### Terminal setup
 - Custom Tomorrow night theme
