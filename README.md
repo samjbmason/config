@@ -62,6 +62,12 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 - ruby-build
 - node.js
 
+### Ruby
+Fix for OopenSSL error
+- brew install openssl
+- brew link openssl --force
+- brew install curl-ca-bundle
+
 ### Gems
 - bundler
 - sass
