@@ -76,13 +76,14 @@ Fix for OopenSSL error
 
 ### Sublime Text Setup
 - monakai colour scheme
+- Source Code Pro font
 - install [package control](http://wbond.net/sublime_packages/package_control/installation)
+- install Alignment
 - install emmet
-- install sass
 - install gitgutter
 - install theme - phoenix
-- install tag
 - install sidebar enhancements
+- install Trailing Spaces
 
 ### Transmit
 - import favourites(should be through iCloud)
