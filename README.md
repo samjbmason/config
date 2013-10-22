@@ -84,6 +84,7 @@ Fix for OopenSSL error
 - install theme - phoenix
 - install sidebar enhancements
 - install Trailing Spaces
+- install Sass
 
 ### Transmit
 - import favourites(should be through iCloud)
