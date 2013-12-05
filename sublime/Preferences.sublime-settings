@@ -17,5 +17,6 @@
 	"translate_tabs_to_spaces": true,
 	"word_wrap": "true",
 	"trailing_spaces_include_current_line": false,
-  	"trailing_spaces_trim_on_save": true
+  	"trailing_spaces_trim_on_save": true,
+  	"scroll_past_end": true
 }
