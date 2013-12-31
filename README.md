@@ -48,6 +48,7 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 - Use Tomorrow Night
 - Menlo 14pt
 - Use .zshrc from repo
+- Make sure to use powconfig as rbenv will break without it
 
 
 ### Homebrew 
