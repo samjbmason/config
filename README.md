@@ -20,12 +20,6 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 -- Docs
 -- Downloads
 -- Pics
--- Go to etc/apache/httpdconf, find lines for phpmodule and replace with this 
-``
-# Default loaded php module that comes installed by default
-#LoadModule php5_module libexec/apache2/libphp5.so
-# Homebrew installed php module this one is active
-LoadModule php5_module    /usr/local/opt/php54/libexec/apache2/libphp5.so ``
 
 ### App Store Installs
 - clear
@@ -45,6 +39,7 @@ LoadModule php5_module    /usr/local/opt/php54/libexec/apache2/libphp5.so ``
 - dropbox
 - appcleaner
 - dropbox
+- Install Anvil - Create .powconfig
 - [Hex colour picker](http://wafflesoftware.net/hexpicker/)
 
 ### Terminal setup
