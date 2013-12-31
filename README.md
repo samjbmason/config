@@ -34,32 +34,25 @@ LoadModule php5_module    /usr/local/opt/php54/libexec/apache2/libphp5.so ``
 - better snap tool
 - transmit
 - coloursnapper
-- harvest(if work)
+- Github App
+- Airmail
 
 ### External Installs
 - chrome
-- sublime text
+- sublime text 3
 - rdio
-- sparrow
 - utorrent
-- virtualhostsx
-- codekit
 - dropbox
-- Desktop from [the desktop wallpaper project](http://www.thefoxisblack.com/category/the-desktop-wallpaper-project/)
 - appcleaner
 - dropbox
 - [Hex colour picker](http://wafflesoftware.net/hexpicker/)
 
 ### Terminal setup
-- Custom Tomorrow night theme
-- install [xcode build tools](https://developer.apple.com/downloads/index.action)
-- install homebrew
-- install home brew packages
-- install php from [homebrew](https://github.com/josegonzalez/homebrew-php#installation) 
-- set up git
-- install latest ruby using rbenv
-- run `rbenv rehash` to initiate shims
-- clone [dotfiles](https://github.com/samjbmason/dotfiles) repo & run `sh makelinks.sh`
+- Download iTerm
+- Install ohmyzsh
+- Use Tomorrow Night
+- Menlo 14pt
+- Use .zshrc from repo
 
 
 ### Homebrew 
@@ -81,19 +74,12 @@ Fix for OopenSSL error
 - run `rbenv rehash`
 
 ### Sublime Text Setup
-- monakai colour scheme
-- Source Code Pro font
+- Ubuntu mono font
 - install [package control](http://wbond.net/sublime_packages/package_control/installation)
-- install Alignment
 - install emmet
 - install gitgutter
-- install theme - phoenix
+- install Spacegrey Theme and use ocean dark theme
 - install sidebar enhancements
 - install Trailing Spaces
 - install Sass
-
-### Transmit
-- import favourites(should be through iCloud)
-- set Sublime as default editor
-- open files in external editor setting
-- set `.md` files to open in iawriter
+- install Hayaku
