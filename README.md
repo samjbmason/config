@@ -58,10 +58,8 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 - node.js
 
 ### Ruby
-Fix for OopenSSL error
-- brew install openssl
-- brew link openssl --force
-- brew install curl-ca-bundle
+- Install Newest Stable ruby
+- Maybe fix OpenSSl error if it comes up
 
 ### Gems
 - bundler
