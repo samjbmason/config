@@ -1,0 +1,39 @@
+"*":
+  "exception-reporting":
+    userId: "0d4738e7-a0e9-e9c5-7cea-e8dc58e51076"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "background-tips"
+      "welcome"
+      "wrap-guide"
+      "less-than-slash"
+    ]
+    themes: [
+      "spacegray-dark-ui"
+      "base16-ocean-dark-spacegray"
+    ]
+  editor:
+    invisibles: {}
+    softWrap: true
+    fontFamily: "Source Code Pro"
+    scrollPastEnd: true
+    lineHeight: 1.4
+    fontSize: 16
+  whitespace:
+    ensureSingleTrailingNewline: false
+    ignoreWhitespaceOnCurrentLine: false
+  "tree-view":
+    hideIgnoredNames: true
+  floobits: {}
+  "merge-conflicts": {}
+  "autocomplete-plus": {}
+  "less-than-slash": {}
+  react: {}
+  emmet: {}
+  jshint:
+    onlyConfig: true
+    supportLintingJsx: true
+  autosave:
+    enabled: true

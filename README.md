@@ -8,10 +8,9 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 - Tracking: 5th bar
 - Set DNS to googles: 8.8.8.8 & 8.8.4.4
 - Allow applications from : anywhere
-- Show hard disks on desktop
 - Show path bar finder
 - Create Sites folder in home
-- Finder Favs: 
+- Finder Favs:
 -- Home
 -- Desktop
 -- Apps
@@ -19,47 +18,44 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 -- Sites
 -- Docs
 -- Downloads
--- Pics
 
 ### App Store Installs
-- clear
+- Clear
+- XCode
 - tweetbot
 - ia writer
 - better snap tool
-- transmit
-- coloursnapper
+- Sip
 - Github App
-- Airmail
 
 ### External Installs
-- chrome
-- sublime text 3
-- rdio
-- utorrent
-- dropbox
-- appcleaner
-- dropbox
-- Install Anvil - Create .powconfig
+- Sketch
+- Chrome
+- Atom
+- Spotify
+- Dropbox
+- AppCleaner
 - [Hex colour picker](http://wafflesoftware.net/hexpicker/)
 
 ### Terminal setup
-- Download iTerm
+- Download iTerm2
 - Install ohmyzsh
-- Use Tomorrow Night
-- Menlo 14pt
+- Use Base16 Ocean colours
+- Source Code Pro 14pt
 - Use .zshrc from repo
-- Make sure to use powconfig as rbenv will break without it
 
 
-### Homebrew 
+### Homebrew
+- HomeBrew itself
 - git
 - rbenv
 - ruby-build
-- node.js
+- node
+- hub
+- heroku-toolbelt
 
 ### Ruby
 - Install Newest Stable ruby
-- Maybe fix OpenSSl error if it comes up
 
 ### Gems
 - bundler
@@ -67,13 +63,4 @@ This is a repo is a checklist of sorts of what happens when I get a new computer
 - update ruby gems
 - run `rbenv rehash`
 
-### Sublime Text Setup
-- Ubuntu mono font
-- install [package control](http://wbond.net/sublime_packages/package_control/installation)
-- install emmet
-- install gitgutter
-- install Spacegrey Theme and use ocean dark theme
-- install sidebar enhancements
-- install Trailing Spaces
-- install Sass
-- install Hayaku
+
